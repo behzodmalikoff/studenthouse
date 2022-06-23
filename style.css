@@ -4763,7 +4763,11 @@ form.form-horizontal {
 
 .ttr_uniform {
   max-width: 100% !important;
-  height: auto !important;
+  height: 200px !important;
+}
+#house2 {
+  display: flex !important;
+  flex-direction: column !important;
 }
 
 .post_column .html_content ol,
